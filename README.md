@@ -1,4 +1,4 @@
 # reveal-animation-gsap-scrolltrigger
 
-<h1>Test an animation with gsap ScrollTrigger</h1>
+<p>Test an animation with gsap ScrollTrigger<p>
 
